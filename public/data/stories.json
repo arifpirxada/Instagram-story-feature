@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "type": "image",
+    "file": "story-1.jpg",
+    "user": "Alice",
+    "profilePic": "/profiles/profile-1.jpg"
+  },
+  {
+    "id": "2",
+    "type": "video",
+    "file": "story-2.mp4",
+    "user": "Bob",
+    "profilePic": "/profiles/profile-2.jpg"
+  },
+  {
+    "id": "3",
+    "type": "image",
+    "file": "story-3.jpg",
+    "user": "Charlie",
+    "profilePic": "/profiles/profile-3.jpg"
+  },
+  {
+    "id": "4",
+    "type": "image",
+    "file": "story-4.jpg",
+    "user": "Diana",
+    "profilePic": "/profiles/profile-4.jpg"
+  },
+  {
+    "id": "5",
+    "type": "video",
+    "file": "story-5.mp4",
+    "user": "Ethan",
+    "profilePic": "/profiles/profile-5.jpg"
+  },
+  {
+    "id": "6",
+    "type": "image",
+    "file": "story-6.jpg",
+    "user": "Fiona",
+    "profilePic": "/profiles/profile-6.jpg"
+  },
+  {
+    "id": "7",
+    "type": "video",
+    "file": "story-7.mp4",
+    "user": "George",
+    "profilePic": "/profiles/profile-7.jpg"
+  },
+  {
+    "id": "8",
+    "type": "image",
+    "file": "story-8.jpg",
+    "user": "Hannah",
+    "profilePic": "/profiles/profile-8.jpg"
+  },
+  {
+    "id": "9",
+    "type": "video",
+    "file": "story-9.mp4",
+    "user": "Ivan",
+    "profilePic": "/profiles/profile-9.jpg"
+  },
+  {
+    "id": "10",
+    "type": "image",
+    "file": "story-10.jpg",
+    "user": "Julia",
+    "profilePic": "/profiles/profile-10.jpg"
+  }
+]
