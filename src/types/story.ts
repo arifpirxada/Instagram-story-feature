@@ -1,4 +1,4 @@
-export type Story = {
+export type StoryType = {
     id: string;
     type: 'image' | 'video';
     file: string;

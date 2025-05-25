@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react"
 import StoryItem from "./StoryItem"
 import axios from 'axios';
-import { type Story } from "../../types/story"
+import { type StoryType } from "../../types/story"
 
 function StoryList() {
 
-    const [stories, setStories] = useState<Story[]>([]);
+    const [stories, setStories] = useState<StoryType[]>([]);
 
     useEffect(() => {
         const fetchStories = async () => {

@@ -1,13 +1,13 @@
 import { useEffect, useState, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { type Story } from "../../types/story"
+import { type StoryType } from "../../types/story"
 import axios from 'axios';
 
 function Story() {
     const { id } = useParams();
     const navigate = useNavigate();
 
-    const [stories, setStories] = useState<Story[]>([]);
+    const [stories, setStories] = useState<StoryType[]>([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
 
